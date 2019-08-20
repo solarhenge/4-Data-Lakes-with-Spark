@@ -7,7 +7,7 @@ As their data engineer, you are tasked with building an ETL pipeline that extrac
 
 You'll be able to test your database and ETL pipeline by running queries given to you by the analytics team from Sparkify and compare your results with their expected results.
 
-##3 Project Description
+### Project Description
 In this project, you'll apply what you've learned on Spark and data lakes to build an ETL pipeline for a data lake hosted on S3. To complete the project, you will need to load data from S3, process the data into analytics tables using Spark, and load them back into S3. You'll deploy this Spark process on a cluster using AWS.
 
 # 2. Project Datasets
